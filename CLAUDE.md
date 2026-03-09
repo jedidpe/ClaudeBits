@@ -11,6 +11,7 @@ enterprise SaaS. React frontend + AWS serverless backend deployed via CDK.
 @./.claude/steering/billing-and-payments.md
 @./.claude/steering/implementation-patterns.md
 @./.claude/steering/repository-structure.md
+@./.claude/steering/branching-strategy.md
 
 # project specs
 
