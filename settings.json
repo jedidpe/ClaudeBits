@@ -1,0 +1,21 @@
+{
+  "plugins": [
+    {
+      "source": "anthropics/skills",
+      "plugins": [
+        "example-skills@anthropic-agent-skills"
+      ]
+    },
+    {
+      "source": "obra/superpowers-marketplace",
+      "plugins": [
+        "superpowers@superpowers-marketplace"
+      ]
+    }
+  ],
+  "skills": [
+    ".claude/skills/aws-cdk-builder",
+    ".claude/skills/saas-builder",
+    ".claude/skills/amazon-aurora-postgresql"
+  ]
+}
